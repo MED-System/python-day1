@@ -1,0 +1,6 @@
+aspratine,4
+panadol,6
+extra,32
+dd,33
+dmdm,212
+mmm,22
