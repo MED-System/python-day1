@@ -1,0 +1,3 @@
+Netflix:password123
+Gmail:secure456
+Spotify:music789

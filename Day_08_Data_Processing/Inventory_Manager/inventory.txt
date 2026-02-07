@@ -1,0 +1,3 @@
+Apples:50
+Bananas:20
+Cherries:0
